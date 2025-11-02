@@ -5,8 +5,8 @@
 
 # Security Tools
 
-- [SSH-Weak-DH](https://github.com/AonCyberLabs/SSH-Weak-DH): Scan SSH servers for weak Diffie-Hellman groups
-- [mbedtls-fuzz](https://github.com/AonCyberLabs/mbedtls-fuzz): Fuzz ARM's mbed TLS library using AFL
+- [SSH-Weak-DH](https://github.com/strozfriedberg/SSH-Weak-DH): Scan SSH servers for weak Diffie-Hellman groups
+- [mbedtls-fuzz](https://github.com/strozfriedberg/mbedtls-fuzz): Fuzz ARM's mbed TLS library using AFL
 
 # Libraries
 
