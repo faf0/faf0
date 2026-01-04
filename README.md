@@ -1,7 +1,9 @@
-# CLI Tools
+# Command-Line Interface Tools
 
 - [edi](https://github.com/faf0/edi): CLI for interacting with artificial intelligence chatbots through Poe's API
 - [sct](https://github.com/faf0/sct): "set color temperature" of your screens
+- [aed](https://github.com/faf0/aed): UNIX command-line tool that encrypts or decrypts its input using AES in CBC mode with a key derived from a password (unmaintained proof of concept)
+- [ls](https://github.com/faf0/ls): Simplified clone of the UNIX tool `ls` which lists directory contents (unmaintained proof of concept)
 
 # Security Tools
 
@@ -10,7 +12,7 @@
 
 # Libraries
 
-- [AES.jl](https://github.com/faf0/AES.jl): AES implementation in Julia supporting several cipher modes of operation
+- [AES.jl](https://github.com/faf0/AES.jl): AES implementation in Julia supporting common cipher modes of operation
 
 # Containers
 
@@ -20,6 +22,16 @@
 
 - [macos-qemu-rpi](https://github.com/faf0/macos-qemu-rpi): Emulate a Raspberry Pi using QEMU on macOS
 - [thinkpad-scripts](https://github.com/faf0/thinkpad-scripts): Emulate three trackpad buttons with ThinkPad models that lack them and disable movements for part of the touchpad to prevent accidental pointer movements on Ubuntu
+
+# Miscellaneous
+
+- [EncSync](https://github.com/faf0/EncSync): Network storage service that provides client-side encryption and supports group file sharing (unmaintained master's thesis project)
+- [image-encryption](https://github.com/faf0/image-encryption): Implementation of a color image encryption algorithm using spatial bit-level permutation and high-dimension chaotic system for the CPU/GPU in C/Julia/CUDA
+- [sws](https://github.com/faf0/sws): Simple UNIX webserver framework supporting IPv4 and IPv6
+- [conqueue](https://github.com/faf0/conqueue): Thread-safe and re-entrant double-ended queue (linked list) implementation in C
+- [LampSort](https://github.com/faf0/LampSort): Java implementation of Lamport's version of quicksort
+- [CoinTossingGUI](https://github.com/faf0/CoinTossingGUI): Simulates a sequence of coin tossing events and plots the corresponding 2-D random walk
+- [cournol](https://github.com/faf0/cournol): Educational tool for analyzing analyzing absolute supply monopolies and polypolies (high school project)
 
 # Links
 
