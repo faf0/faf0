@@ -12,7 +12,7 @@
 # Security Tools
 
 - [SSH-Weak-DH](https://github.com/strozfriedberg/SSH-Weak-DH): Scan SSH servers for weak Diffie-Hellman groups
-- [mbedtls-fuzz](https://github.com/strozfriedberg/mbedtls-fuzz): Fuzz ARM's mbed TLS library using AFL
+- [mbedtls-fuzz](https://github.com/strozfriedberg/mbedtls-fuzz): Fuzz ARM's mbed TLS library using AFL++
 - [EncSync](https://github.com/faf0/EncSync): Network storage service that provides client-side encryption and supports group file sharing (unmaintained master's thesis project)
 - [image-encryption](https://github.com/faf0/image-encryption): Implementation of a color image encryption algorithm using spatial bit-level permutation and high-dimension chaotic system for the CPU/GPU in C/Julia/CUDA
 
@@ -27,6 +27,7 @@
 # Scripts
 
 - [macos-qemu-rpi](https://github.com/faf0/macos-qemu-rpi): Emulate a Raspberry Pi using QEMU on macOS
+  - Helpful for going through the [Azeria Labs ARM exploitation tutorial](https://azeria-labs.com/writing-arm-shellcode/) on macOS
 - [thinkpad-scripts](https://github.com/faf0/thinkpad-scripts): Emulate three trackpad buttons with ThinkPad models that lack them and disable movements for part of the touchpad to prevent accidental pointer movements on Ubuntu
 
 # Miscellaneous
