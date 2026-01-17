@@ -1,4 +1,4 @@
-# Command-Line Interface Tools
+# Command Line Tools
 
 - [sct](https://github.com/faf0/sct): X11 command-line utility *xsct* to "set color temperature" (sct) of screens
   - [Alpine](https://pkgs.alpinelinux.org/package/edge/community/x86/xsct)
