@@ -4,6 +4,7 @@
   - [Alpine](https://pkgs.alpinelinux.org/package/edge/community/x86/xsct)
   - [Arch](https://aur.archlinux.org/packages/xsct)
   - [Debian](https://packages.debian.org/en/sid/xsct)
+  - [NixOS](https://github.com/NixOS/nixpkgs/blob/078d69f03934859a181e81ba987c2bb033eebfc5/pkgs/by-name/xs/xsct/package.nix#L33)
   - [Ubuntu](https://launchpad.net/ubuntu/noble/+package/xsct)
 - [edi](https://github.com/faf0/edi): CLI for interacting with artificial intelligence chatbots through Poe's API
 - [aed](https://github.com/faf0/aed): UNIX command-line tool that encrypts or decrypts its input using AES in CBC mode with a key derived from a password (unmaintained proof of concept)
