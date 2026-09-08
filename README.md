@@ -55,7 +55,7 @@ Security researcher & engineer | Building tools for secure systems, privacy, cry
 | [pi-hole/docs](https://github.com/pi-hole/docs/pulls?q=is%3Apr+author%3Afaf0) | Official documentation for Pi-hole |
 | [antisamy](https://github.com/nahsra/antisamy/pulls?q=is%3Apr+author%3Afaf0-addepar) | HTML sanitization library |
 | [XSStrike](https://github.com/s0md3v/XSStrike/pulls?q=is%3Apr+author%3Afaf0-addepar) | XSS scanner |
-| [htap](https://github.com/fcavallarin/htcap/pulls?q=is%3Apr+author%3Afaf0-addepar) | Crawler for Single Page Application (SPA) web apps |
+| [htcap](https://github.com/fcavallarin/htcap/pulls?q=is%3Apr+author%3Afaf0-addepar) | Crawler for Single Page Application (SPA) web apps |
 | [node-opentoken](https://github.com/73rhodes/node-opentoken) | [OpenToken](https://datatracker.ietf.org/doc/html/draft-smith-opentoken-02) library written in Node.js |
 | [vim-clevertab](https://github.com/neitanod/vim-clevertab/pulls?q=is%3Apr+author%3Afaf0) | Simple tab completion plugin for vim |
 | [emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha/pulls?q=is%3Apr+author%3Afaf0) | Game console emulation system |
