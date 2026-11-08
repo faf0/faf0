@@ -38,7 +38,7 @@ Security researcher & engineer | Building tools for secure systems, privacy, cry
 ## 🔭 Research & Learning
 | Project | Description |
 | --- | --- |
-| [CVE-2026-113582](https://ffoerg.de/posts/2026-10-24.shtml) | Discovered and reported XML External Entity (XXE) vulnerabilities in Apache Abdera to the vendor |
+| [CVE-2026-113582](https://ffoerg.de/posts/2026-10-24.shtml) | Reported XML External Entity (XXE) vulnerabilities in Apache Abdera to the vendor |
 | [cournol](https://github.com/faf0/cournol) | Educational tool for analyzing analyzing absolute supply monopolies and polypolies (high school project) |
 | [CoinTossingGUI](https://github.com/faf0/CoinTossingGUI) | Simulates a sequence of coin tossing events and plots the corresponding 2-D random walk |
 | [LampSort](https://github.com/faf0/LampSort) | Java implementation of Lamport's version of quicksort |
