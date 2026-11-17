@@ -21,7 +21,7 @@ Security researcher & engineer | Building tools for secure systems, privacy, cry
 
 | Project | Description |
 | --- | --- |
-| [dockerfiles](https://github.com/faf0/dockerfiles) | Various Dockerfiles for Podman and Docker containers, including [OpenSSH client](https://ffoerg.de/posts/2026-01-04.shtml), [Tor](https://ffoerg.de/posts/2026-01-05.shtml), [dnscrypt-proxy](https://ffoerg.de/posts/2026-01-17.shtml), and [Tailscale](https://ffoerg.de/posts/2026-01-25.shtml) |
+| [dockerfiles](https://github.com/faf0/dockerfiles) | Various Dockerfiles for Podman and Docker containers, including [OpenSSH client](https://ffoerg.de/posts/2026-01-04.shtml), [Tor](https://ffoerg.de/posts/2026-01-05.shtml), [dnscrypt-proxy](https://ffoerg.de/posts/2026-01-17.shtml), [Tailscale](https://ffoerg.de/posts/2026-01-25.shtml), and [local CPU LLM & agentic coding](https://github.com/faf0/dockerfiles/tree/main/modchip-opencode) |
 | [aed](https://github.com/faf0/aed) | UNIX command-line tool that encrypts or decrypts its input using AES in CBC mode with a key derived from a password (unmaintained proof of concept) |
 | [EncSync](https://github.com/faf0/EncSync) | Network storage service that provides client-side encryption and supports group file sharing (unmaintained master's thesis project) |
 | [image-encryption](https://github.com/faf0/image-encryption) | Implementation of a color image encryption algorithm using spatial bit-level permutation and high-dimension chaotic system for the CPU/GPU in C/Julia/CUDA (unmaintained) |
@@ -54,10 +54,10 @@ Security researcher & engineer | Building tools for secure systems, privacy, cry
 | [confer-image](https://github.com/ConferLabs/confer-image/pulls?q=is%3Apr+author%3Afaf0) | Small and reproducible Linux images meant to run in a TEE (Trusted Execution Environment) for [confer.to](https://confer.to/blog/2026/01/private-inference/) |
 | [firejail](https://github.com/netblue30/firejail/pulls?q=is%3Apr+author%3Afaf0) | Linux sandbox tool to run applications in a restricted environment |
 | [pi-hole/docs](https://github.com/pi-hole/docs/pulls?q=is%3Apr+author%3Afaf0) | Official documentation for Pi-hole |
+| [emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha/pulls?q=is%3Apr+author%3Afaf0) | Game console emulation system |
+| [spotitySpeedExtension](https://github.com/intOrfloat/spotitySpeedExtension/pulls?q=is%3Apr+author%3Afaf0) | Chrome extension to change the playback speed on Spotify |
 | [antisamy](https://github.com/nahsra/antisamy/pulls?q=is%3Apr+author%3Afaf0-addepar) | HTML sanitization library |
 | [XSStrike](https://github.com/s0md3v/XSStrike/pulls?q=is%3Apr+author%3Afaf0-addepar) | XSS scanner |
 | [htcap](https://github.com/fcavallarin/htcap/pulls?q=is%3Apr+author%3Afaf0-addepar) | Crawler for Single Page Application (SPA) web apps |
 | [node-opentoken](https://github.com/73rhodes/node-opentoken) | [OpenToken](https://datatracker.ietf.org/doc/html/draft-smith-opentoken-02) library written in Node.js |
 | [vim-clevertab](https://github.com/neitanod/vim-clevertab/pulls?q=is%3Apr+author%3Afaf0) | Simple tab completion plugin for vim |
-| [emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha/pulls?q=is%3Apr+author%3Afaf0) | Game console emulation system |
-| [spotitySpeedExtension](https://github.com/intOrfloat/spotitySpeedExtension/pulls?q=is%3Apr+author%3Afaf0) | Chrome extension to change the playback speed on Spotify |
