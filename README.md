@@ -21,7 +21,7 @@ Security researcher & engineer | Building tools for secure systems, privacy, cry
 
 | Project | Description |
 | --- | --- |
-| [dockerfiles](https://github.com/faf0/dockerfiles) | Various Dockerfiles for Podman and Docker containers, including [OpenSSH client](https://ffoerg.de/posts/2026-01-04.shtml), [Tor](https://ffoerg.de/posts/2026-01-05.shtml), [dnscrypt-proxy](https://ffoerg.de/posts/2026-01-17.shtml), [Tailscale](https://ffoerg.de/posts/2026-01-25.shtml), and [local CPU LLM & agentic coding](https://github.com/faf0/dockerfiles/tree/main/modchip-opencode) |
+| [dockerfiles](https://github.com/faf0/dockerfiles) | Various Dockerfiles for Podman and Docker containers, including [OpenSSH client](https://ffoerg.de/posts/2026-01-04.shtml), [Tor](https://ffoerg.de/posts/2026-01-05.shtml), [dnscrypt-proxy](https://ffoerg.de/posts/2026-01-17.shtml), [Tailscale](https://ffoerg.de/posts/2026-01-25.shtml), and [local CPU LLM & agentic coding](https://ffoerg.de/posts/2026-11-17.shtml) |
 | [aed](https://github.com/faf0/aed) | UNIX command-line tool that encrypts or decrypts its input using AES in CBC mode with a key derived from a password (unmaintained proof of concept) |
 | [EncSync](https://github.com/faf0/EncSync) | Network storage service that provides client-side encryption and supports group file sharing (unmaintained master's thesis project) |
 | [image-encryption](https://github.com/faf0/image-encryption) | Implementation of a color image encryption algorithm using spatial bit-level permutation and high-dimension chaotic system for the CPU/GPU in C/Julia/CUDA (unmaintained) |
